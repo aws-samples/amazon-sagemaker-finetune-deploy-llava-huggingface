@@ -1,4 +1,4 @@
-transformers==4.37.2
+transformers==4.38.0
 tokenizers==0.15.1
 sentencepiece==0.1.99
 shortuuid
