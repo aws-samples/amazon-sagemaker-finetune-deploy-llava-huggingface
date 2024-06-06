@@ -9,7 +9,7 @@ pydantic
 markdown2[all]
 numpy
 scikit-learn==1.2.2
-gradio==4.19.2
+gradio==4.36.0
 gradio_client==0.8.1
 requests
 httpx==0.24.0
