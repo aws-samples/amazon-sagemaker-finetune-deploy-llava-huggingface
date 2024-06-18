@@ -8,7 +8,7 @@ bitsandbytes
 pydantic
 markdown2[all]
 numpy
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 gradio==4.19.2
 gradio_client==0.8.1
 requests
